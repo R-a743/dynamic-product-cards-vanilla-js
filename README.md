@@ -4,7 +4,7 @@ dinamik ürün kartları
 Bu proje, **JavaScript kullanarak dinamik ürün kartları oluşturma** ve bunları filtreleme, sıralama veya arama işlemleri yapabilme özelliklerini gösterir. Kullanıcılar, ekrandaki ürün kartlarını belirli kriterlere göre görüntüleyebilir.
 
 ---
-♦ CANLI DEMO : https://r-a743.github.io/Dinamik-r-n-kartlar-/
+♦ CANLI DEMO :  https://r-a743.github.io/dynamic-product-cards-vanilla-js/
  
 ## 🔹 Özellikler
 
